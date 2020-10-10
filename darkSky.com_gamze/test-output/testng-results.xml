@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11506" started-at="2020-08-09T23:05:46 EDT" finished-at="2020-08-09T23:05:57 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11506" started-at="2020-08-09T23:05:46 EDT" finished-at="2020-08-09T23:05:57 EDT">
+      <class name="com.qa.darkSky.com_gamze.tests.TodaysTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.darkSky.com_gamze.tests.TodaysTest@131276c2]" name="setUp" is-config="true" duration-ms="9817" started-at="2020-08-09T23:05:46 EDT" finished-at="2020-08-09T23:05:56 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testPageTitle()[pri:0, instance:com.qa.darkSky.com_gamze.tests.TodaysTest@131276c2]" name="testPageTitle" duration-ms="1023" started-at="2020-08-09T23:05:56 EDT" finished-at="2020-08-09T23:05:57 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPageTitle -->
+        <test-method status="PASS" signature="getTodayMaxMinTemp()[pri:1, instance:com.qa.darkSky.com_gamze.tests.TodaysTest@131276c2]" name="getTodayMaxMinTemp" duration-ms="224" started-at="2020-08-09T23:05:57 EDT" finished-at="2020-08-09T23:05:57 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTodayMaxMinTemp -->
+        <test-method status="PASS" signature="verifyMaxTemp()[pri:2, instance:com.qa.darkSky.com_gamze.tests.TodaysTest@131276c2]" name="verifyMaxTemp" duration-ms="149" started-at="2020-08-09T23:05:57 EDT" description="verify if max temperature is displayed correctly" finished-at="2020-08-09T23:05:57 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMaxTemp -->
+        <test-method status="PASS" signature="verifyMinTemp()[pri:3, instance:com.qa.darkSky.com_gamze.tests.TodaysTest@131276c2]" name="verifyMinTemp" duration-ms="147" started-at="2020-08-09T23:05:57 EDT" description="verify if  min tempretor is displayed correctly" finished-at="2020-08-09T23:05:57 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMinTemp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.darkSky.com_gamze.tests.TodaysTest@131276c2]" name="tearDown" is-config="true" duration-ms="102" started-at="2020-08-09T23:05:57 EDT" finished-at="2020-08-09T23:05:57 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.darkSky.com_gamze.tests.TodaysTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
